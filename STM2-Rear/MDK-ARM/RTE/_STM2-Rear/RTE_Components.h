@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'STM2-Rear' 
+ * Project: 'STM2-Rear (2)' 
  * Target:  'STM2-Rear' 
  */
 
